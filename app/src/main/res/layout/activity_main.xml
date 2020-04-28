@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/account_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff00"
+        android:layout_margin="5dp"/>
+
+
+    <EditText
+        android:id="@+id/sip_number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone/sip number to dial" >
+    </EditText>
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/start_audio_call"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="AudioCall" />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/start_video_call"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="VideoCall" />
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/send_im"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Send IM" />
+</LinearLayout>

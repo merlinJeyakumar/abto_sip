@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+MERGED from [com.android.support:support-v4:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\bc3876738bdb5d8e498d8c27630d1092\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\240ad4e7c0a4c0f0ac07ba22afac43c2\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\13f115cc5d5138e9ed6d7046dab5d030\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\776dfa9be835a7a130740bd6b0619584\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\4660acd0807cc71ba66bee2bd6cbbbe5\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\2f9ffac3f9aa7c3da9b2ea0a60bff798\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\e393f8741de26a3dcc6eeb170bd18679\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\c98a9bc0a455ab0200cce6feac99fa67\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b82955ed32a4ee277723d8123c155ac3\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\8756cea37b098f254fcf1c05271849e1\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\e2a5a2145c109898fc28f4778cc59fa2\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\912d14cf8b7da59afd70a06b1ab8df17\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\6382b0a1555e0e71f2a2930dfe6b1d66\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\ab60f6dd6ef13cb57d98ea7973f298c0\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\441dd746fc5507909e127eaa50801847\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\9f66af0770fd83464340388aae824c93\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\f89186d3faa35207960141dbf97e7823\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\e30d9e6f3403e84c4cae532d406e4009\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\855199d21a2457dffd94f776f414402b\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:5:5-37
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.CAMERA
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.USE_SIP
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.CONFIGURE_SIP
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:20:22-63
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:21:5-95
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:21:22-92
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:23:22-78
+uses-feature#android.hardware.wifi
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:26:9-45
+uses-feature#android.hardware.microphone
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:28:5-30:35
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:30:9-32
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:29:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:32:9-52
+uses-feature#android.hardware.bluetooth
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:35:9-50
+uses-feature#android.hardware.screen.portrait
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:38:9-56
+uses-feature#android.hardware.camera
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:41:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:43:5-45:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:45:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:44:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:46:5-48:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:48:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:47:9-53
+uses-feature#android.hardware.camera.front
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:49:5-51:36
+	android:required
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:51:9-33
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:50:9-53
+application
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:53:5-102:19
+MERGED from [com.android.support:support-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:56:9-41
+	android:icon
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:55:9-45
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:54:9-67
+activity#com.abtotest.voiptest.SplashActivity
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:58:9-66:20
+	android:screenOrientation
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:61:13-60
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:59:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:64:27-74
+activity#com.abtotest.voiptest.RegisterActivity
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:68:9-71:62
+	android:screenOrientation
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:71:13-60
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:69:13-45
+activity#com.abtotest.voiptest.MainActivity
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:73:9-76:62
+	android:label
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:75:13-45
+	android:theme
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:76:13-60
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:74:13-41
+activity#com.abtotest.voiptest.ScreenAV
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:78:9-81:48
+	android:screenOrientation
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:80:13-49
+	android:excludeFromRecents
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:81:13-46
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:79:13-37
+service#org.abtollc.service.ABTOSipService
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:84:9-91:19
+	android:stopWithTask
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:86:13-41
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:85:13-62
+intent-filter#action:name:org.abtollc.service.ABTOSipService+action:name:org.abtollc.service.SipConfiguration
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:87:13-90:29
+action#org.abtollc.service.ABTOSipService
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:88:17-77
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:88:25-74
+action#org.abtollc.service.SipConfiguration
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:89:17-79
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:89:25-76
+provider#org.abtollc.db.DBProvider
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:93:9-94:65
+	android:authorities
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:94:13-63
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:93:19-59
+meta-data#AbtoVoipForegroundIcon
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:96:9-112
+	android:resource
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:96:58-109
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:96:20-57
+meta-data#AbtoVoipForegroundTitle
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:97:9-94
+	android:value
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:97:59-91
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:97:20-58
+meta-data#AbtoVoipForegroundActivity
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:98:9-115
+	android:value
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:98:62-112
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:98:20-61
+meta-data#AbtoVoipCallActivity
+ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:99:9-105
+	android:value
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:99:56-102
+	android:name
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml:99:20-55
+uses-sdk
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\bc3876738bdb5d8e498d8c27630d1092\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\bc3876738bdb5d8e498d8c27630d1092\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\240ad4e7c0a4c0f0ac07ba22afac43c2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\240ad4e7c0a4c0f0ac07ba22afac43c2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\13f115cc5d5138e9ed6d7046dab5d030\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\13f115cc5d5138e9ed6d7046dab5d030\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\776dfa9be835a7a130740bd6b0619584\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\776dfa9be835a7a130740bd6b0619584\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\4660acd0807cc71ba66bee2bd6cbbbe5\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\4660acd0807cc71ba66bee2bd6cbbbe5\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\2f9ffac3f9aa7c3da9b2ea0a60bff798\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\2f9ffac3f9aa7c3da9b2ea0a60bff798\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\e393f8741de26a3dcc6eeb170bd18679\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\e393f8741de26a3dcc6eeb170bd18679\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\c98a9bc0a455ab0200cce6feac99fa67\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\c98a9bc0a455ab0200cce6feac99fa67\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b82955ed32a4ee277723d8123c155ac3\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b82955ed32a4ee277723d8123c155ac3\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\8756cea37b098f254fcf1c05271849e1\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\8756cea37b098f254fcf1c05271849e1\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\e2a5a2145c109898fc28f4778cc59fa2\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\e2a5a2145c109898fc28f4778cc59fa2\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\912d14cf8b7da59afd70a06b1ab8df17\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\912d14cf8b7da59afd70a06b1ab8df17\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\6382b0a1555e0e71f2a2930dfe6b1d66\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\6382b0a1555e0e71f2a2930dfe6b1d66\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\ab60f6dd6ef13cb57d98ea7973f298c0\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\ab60f6dd6ef13cb57d98ea7973f298c0\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\441dd746fc5507909e127eaa50801847\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\441dd746fc5507909e127eaa50801847\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\9f66af0770fd83464340388aae824c93\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\9f66af0770fd83464340388aae824c93\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\f89186d3faa35207960141dbf97e7823\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Development\.gradle\caches\transforms-2\files-2.1\f89186d3faa35207960141dbf97e7823\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\e30d9e6f3403e84c4cae532d406e4009\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\e30d9e6f3403e84c4cae532d406e4009\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\855199d21a2457dffd94f776f414402b\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\855199d21a2457dffd94f776f414402b\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Development\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\Project\Demo\voip_abto\VoipTestStudio_1\app\src\main\AndroidManifest.xml

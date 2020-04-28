@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6fd699aeef8bbc23a3ee27b7d45abde9e3ed1a1a.jar" />
+    </item>
+    <item
+        jar="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_f7c047d4df61f56070c89c4c5bc764a9b285b30d.jar" />
+    </item>
+    <item
+        jar="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_a8189981871eb9137eb3989e580b5f812449bfa6.jar" />
+    </item>
+    <item
+        jar="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\libs\abto_android_voip_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bb0f3d991d00d476c38ac98597efbadeeaf27b7b">
+        <dex dex="C:\DiskX\Prj_VoipSDK_Android\__SDK\abto_android_voip_sdk_(video_full)_20161019\VoipTestStudio\app\build\intermediates\pre-dexed\debug\abto_android_voip_sdk_a9da6df2d9f8cbb237b5423fa29df6bffe7a2570.jar" />
+    </item>
+
+</items>

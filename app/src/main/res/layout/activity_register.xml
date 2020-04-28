@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="32dp"
+    tools:context="com.abtotest.voiptest.RegisterActivity">
+
+
+    <LinearLayout
+        android:id="@+id/credentials_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/login"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="UserName eg.xxxx" >
+        </EditText>
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Password"/>
+
+        <EditText
+            android:layout_marginTop="10dip"
+            android:id="@+id/domain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Domain eg.sip.xxxx.org" />
+
+        <CheckBox
+            android:layout_marginTop="5dip"
+            android:id="@+id/disable_registration"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Disable registration"/>
+
+        <Button
+            android:layout_marginTop="45dip"
+            android:id="@+id/register_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Register" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
